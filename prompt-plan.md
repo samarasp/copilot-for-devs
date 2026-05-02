@@ -1,4 +1,4 @@
-# Prompt Copilot — (PLAN Mode)
+# Prompt Copilot — (Plan Mode)
 
 ## IDENTIDADE
 
